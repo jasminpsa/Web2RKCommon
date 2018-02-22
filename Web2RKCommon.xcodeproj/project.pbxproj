@@ -7,41 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		153752DD1F3C7F3A003DD824 /* Gotham-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D41F3C7F3A003DD824 /* Gotham-Bold.ttf */; };
-		153752DE1F3C7F3A003DD824 /* Gotham-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D51F3C7F3A003DD824 /* Gotham-Light.ttf */; };
-		153752DF1F3C7F3A003DD824 /* Gotham-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D61F3C7F3A003DD824 /* Gotham-Regular.ttf */; };
-		153752E01F3C7F3A003DD824 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D71F3C7F3A003DD824 /* OpenSans-Bold.ttf */; };
-		153752E11F3C7F3A003DD824 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D81F3C7F3A003DD824 /* OpenSans-Light.ttf */; };
-		153752E21F3C7F3A003DD824 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752D91F3C7F3A003DD824 /* OpenSans-Regular.ttf */; };
-		153752E31F3C7F3A003DD824 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752DA1F3C7F3A003DD824 /* Roboto-Bold.ttf */; };
-		153752E41F3C7F3A003DD824 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752DB1F3C7F3A003DD824 /* Roboto-Light.ttf */; };
-		153752E51F3C7F3A003DD824 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 153752DC1F3C7F3A003DD824 /* Roboto-Regular.ttf */; };
 		153A97B91F347E700080E319 /* Web2RKCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 153A97B71F347E700080E319 /* Web2RKCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1583B6901F34AE2600D96C27 /* PTSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1583B68D1F34AE2600D96C27 /* PTSans-Bold.ttf */; };
-		1583B6911F34AE2600D96C27 /* PTSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1583B68E1F34AE2600D96C27 /* PTSans-Light.ttf */; };
-		1583B6921F34AE2600D96C27 /* PTSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1583B68F1F34AE2600D96C27 /* PTSans-Regular.ttf */; };
 		997E32A3203EE9E6007445CB /* FontManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E32A1203EE9E6007445CB /* FontManager.swift */; };
 		997E32A4203EE9E6007445CB /* Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E32A2203EE9E6007445CB /* Const.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		153752D41F3C7F3A003DD824 /* Gotham-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gotham-Bold.ttf"; path = "../Web To RK Template/Gotham-Bold.ttf"; sourceTree = "<group>"; };
-		153752D51F3C7F3A003DD824 /* Gotham-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gotham-Light.ttf"; path = "../Web To RK Template/Gotham-Light.ttf"; sourceTree = "<group>"; };
-		153752D61F3C7F3A003DD824 /* Gotham-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gotham-Regular.ttf"; path = "../Web To RK Template/Gotham-Regular.ttf"; sourceTree = "<group>"; };
-		153752D71F3C7F3A003DD824 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Bold.ttf"; path = "../Web To RK Template/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
-		153752D81F3C7F3A003DD824 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Light.ttf"; path = "../Web To RK Template/OpenSans-Light.ttf"; sourceTree = "<group>"; };
-		153752D91F3C7F3A003DD824 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Regular.ttf"; path = "../Web To RK Template/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
-		153752DA1F3C7F3A003DD824 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Bold.ttf"; path = "../Web To RK Template/Roboto-Bold.ttf"; sourceTree = "<group>"; };
-		153752DB1F3C7F3A003DD824 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../Web To RK Template/Roboto-Light.ttf"; sourceTree = "<group>"; };
-		153752DC1F3C7F3A003DD824 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../Web To RK Template/Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		153A97B41F347E700080E319 /* Web2RKCommon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Web2RKCommon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		153A97B71F347E700080E319 /* Web2RKCommon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Web2RKCommon.h; sourceTree = "<group>"; };
 		153A97B81F347E700080E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1583B68D1F34AE2600D96C27 /* PTSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PTSans-Bold.ttf"; path = "../Web To RK Template/PTSans-Bold.ttf"; sourceTree = "<group>"; };
-		1583B68E1F34AE2600D96C27 /* PTSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PTSans-Light.ttf"; path = "../Web To RK Template/PTSans-Light.ttf"; sourceTree = "<group>"; };
-		1583B68F1F34AE2600D96C27 /* PTSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PTSans-Regular.ttf"; path = "../Web To RK Template/PTSans-Regular.ttf"; sourceTree = "<group>"; };
 		997E32A1203EE9E6007445CB /* FontManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontManager.swift; sourceTree = "<group>"; };
 		997E32A2203EE9E6007445CB /* Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
+		997E32B3203EF6F9007445CB /* Gotham-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Light.ttf"; sourceTree = "<group>"; };
+		997E32B4203EF6F9007445CB /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		997E32B5203EF6F9007445CB /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		997E32B6203EF6F9007445CB /* PTSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PTSans-Regular.ttf"; sourceTree = "<group>"; };
+		997E32B7203EF6FA007445CB /* PTSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PTSans-Bold.ttf"; sourceTree = "<group>"; };
+		997E32B8203EF6FA007445CB /* Gotham-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Bold.ttf"; sourceTree = "<group>"; };
+		997E32B9203EF6FA007445CB /* PTSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PTSans-Light.ttf"; sourceTree = "<group>"; };
+		997E32BA203EF6FA007445CB /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		997E32BB203EF6FB007445CB /* Gotham-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Regular.ttf"; sourceTree = "<group>"; };
+		997E32BC203EF6FB007445CB /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		997E32BD203EF6FB007445CB /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		997E32BE203EF6FB007445CB /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,18 +46,6 @@
 		153A97AA1F347E700080E319 = {
 			isa = PBXGroup;
 			children = (
-				153752D41F3C7F3A003DD824 /* Gotham-Bold.ttf */,
-				153752D51F3C7F3A003DD824 /* Gotham-Light.ttf */,
-				153752D61F3C7F3A003DD824 /* Gotham-Regular.ttf */,
-				153752D71F3C7F3A003DD824 /* OpenSans-Bold.ttf */,
-				153752D81F3C7F3A003DD824 /* OpenSans-Light.ttf */,
-				153752D91F3C7F3A003DD824 /* OpenSans-Regular.ttf */,
-				153752DA1F3C7F3A003DD824 /* Roboto-Bold.ttf */,
-				153752DB1F3C7F3A003DD824 /* Roboto-Light.ttf */,
-				153752DC1F3C7F3A003DD824 /* Roboto-Regular.ttf */,
-				1583B68D1F34AE2600D96C27 /* PTSans-Bold.ttf */,
-				1583B68E1F34AE2600D96C27 /* PTSans-Light.ttf */,
-				1583B68F1F34AE2600D96C27 /* PTSans-Regular.ttf */,
 				153A97B61F347E700080E319 /* Web2RKCommon */,
 				153A97B51F347E700080E319 /* Products */,
 			);
@@ -86,6 +62,18 @@
 		153A97B61F347E700080E319 /* Web2RKCommon */ = {
 			isa = PBXGroup;
 			children = (
+				997E32B8203EF6FA007445CB /* Gotham-Bold.ttf */,
+				997E32BA203EF6FA007445CB /* Roboto-Regular.ttf */,
+				997E32BB203EF6FB007445CB /* Gotham-Regular.ttf */,
+				997E32BE203EF6FB007445CB /* OpenSans-Light.ttf */,
+				997E32BC203EF6FB007445CB /* OpenSans-Regular.ttf */,
+				997E32B7203EF6FA007445CB /* PTSans-Bold.ttf */,
+				997E32B9203EF6FA007445CB /* PTSans-Light.ttf */,
+				997E32B6203EF6F9007445CB /* PTSans-Regular.ttf */,
+				997E32BD203EF6FB007445CB /* Roboto-Light.ttf */,
+				997E32B3203EF6F9007445CB /* Gotham-Light.ttf */,
+				997E32B4203EF6F9007445CB /* OpenSans-Bold.ttf */,
+				997E32B5203EF6F9007445CB /* Roboto-Bold.ttf */,
 				997E32A2203EE9E6007445CB /* Const.swift */,
 				997E32A1203EE9E6007445CB /* FontManager.swift */,
 				153A97B71F347E700080E319 /* Web2RKCommon.h */,
@@ -164,18 +152,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				153752DD1F3C7F3A003DD824 /* Gotham-Bold.ttf in Resources */,
-				153752DE1F3C7F3A003DD824 /* Gotham-Light.ttf in Resources */,
-				153752DF1F3C7F3A003DD824 /* Gotham-Regular.ttf in Resources */,
-				153752E01F3C7F3A003DD824 /* OpenSans-Bold.ttf in Resources */,
-				153752E11F3C7F3A003DD824 /* OpenSans-Light.ttf in Resources */,
-				153752E21F3C7F3A003DD824 /* OpenSans-Regular.ttf in Resources */,
-				153752E31F3C7F3A003DD824 /* Roboto-Bold.ttf in Resources */,
-				153752E41F3C7F3A003DD824 /* Roboto-Light.ttf in Resources */,
-				153752E51F3C7F3A003DD824 /* Roboto-Regular.ttf in Resources */,
-				1583B6901F34AE2600D96C27 /* PTSans-Bold.ttf in Resources */,
-				1583B6911F34AE2600D96C27 /* PTSans-Light.ttf in Resources */,
-				1583B6921F34AE2600D96C27 /* PTSans-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,7 +213,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -287,7 +263,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";

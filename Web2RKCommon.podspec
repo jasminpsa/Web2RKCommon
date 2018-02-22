@@ -13,6 +13,6 @@ This dancing view changes itself with different amazing colours and keep rotatin
   s.source           = { :git => 'https://github.com/jasminpsa/Web2RKCommon.git' }
  
   s.ios.deployment_target = '9.1'
-  s.source_files = 'Web2RKCommon','Web2RKCommon/*.{swift}'
+  s.source_files     = 'Web2RKCommon/*'
  
 end
