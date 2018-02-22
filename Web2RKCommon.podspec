@@ -9,10 +9,10 @@ This dancing view changes itself with different amazing colours and keep rotatin
  
   s.homepage         = 'https://github.com/Sazalak89/JDancingView'
   s.license          = { :type => 'MIT' }
-  s.author           = { 'Jasmin Pethani' => 'jasmin.pethani.sa@gmail.com' }
-  s.source           = { :git => 'https://github.com/Hearst-DD/ObjectMapper' }
+  s.author           = { 'Jasmin Pethani' => 'jasmine@trialx.com' }
+  s.source           = { :git => 'https://github.com/jasminpsa/Web2RKCommon.git' }
  
   s.ios.deployment_target = '9.1'
-  s.source_files = 'ObjectMapper/**/*.swift'
+  s.source_files = 'Web2RKCommon/**/*.swift'
  
 end
