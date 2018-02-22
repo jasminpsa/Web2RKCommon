@@ -14,7 +14,7 @@ This dancing view changes itself with different amazing colours and keep rotatin
  
   s.ios.deployment_target = '9.1'
   s.source_files     = 'Web2RKCommon/*'
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
-
+  #s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
+  s.swift_version = '3.2'
  
 end
